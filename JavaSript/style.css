@@ -1,13 +1,13 @@
 body { 
     font-family: Arial; 
-    background:#9fd9ff; 
+    background:#9fc1ff; 
     padding:20px; 
 }
 
 .container { 
     max-width:700px; 
     margin:auto; 
-    background:#658fac; 
+    background:#90abd3; 
     padding:20px; 
     border-radius:10px; 
 }
@@ -17,7 +17,7 @@ body {
     justify-content:space-between; 
     margin:10px 0; 
     padding:10px; 
-    background:#d0ebfd; 
+    background:#d0e5fd; 
     border-radius:5px; 
 }
 
